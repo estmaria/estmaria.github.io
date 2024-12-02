@@ -106,12 +106,20 @@ body a{
     position: relative;
     text-align: center;
 }
+
 .language-img{
     display: block;
-    margin: 10px auto; /* Centers the image */
+    margin: 10px auto; 
     width: 50px;
     height: 50px;
-    position: static; /* Removes absolute positioning */
+    position: static; 
+}
+.language-img2{
+    display: block;
+    margin: 10px auto; 
+    width: 10s0px;
+    height: 50px;
+    position: static; 
 }
 .card-text {
     text-align: center;
