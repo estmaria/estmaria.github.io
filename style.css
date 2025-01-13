@@ -19,8 +19,10 @@ body a{
 
 .home {
     height:100vh;
-    background: #2f6586;
-    
+    background: url('assets/images/background_home.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
 }
 
 .title_home{
